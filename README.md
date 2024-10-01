@@ -27,8 +27,8 @@ Além disso, verifique se a versão do Python está atualizada.
 
 ## Instruções
 
-Instalacao:
-   - Baixe todo os arquivos e os coloque em uma pasta.
+Instalação:
+   - Baixe todos os arquivos e os coloque em uma pasta.
    - Crie um ambiente virtual a partir do interpretador python instalado no seu PC.
    - Ative seu venv e em um novo terminal, navegue até o diretório da pasta que contém os arquivos baixados. Você pode usar o comando cd para mudar de diretório. Por exemplo:
 
@@ -42,7 +42,7 @@ Existem apenas 3 funções:
 
    - x_xcursor_supporte:
    
-     É uma funcao opcional que apenas verifica se o sistema suporta cursores ARGB/animados. Passe como argumento qualquer widget retornando True para sim e False para não.
+     É uma função opcional que apenas verifica se o sistema suporta cursores ARGB/animados. Passe como argumento qualquer widget, retornando True para sim e False para não.
      
    - x_load_cursor:
      
@@ -55,5 +55,20 @@ Existem apenas 3 funções:
      Para voltar o cursor padrao use a função config do tkinter para usar o cursor arrow:
      widget.config(cursor="arrow")
 
-## 
+O formato do arquivo de cursor: 
+
+   - Somente o cursor criado com xcursorgen irá funcionar. Para mais informações de criação do cursor personalizado, acesse meu repositório criar-xcursor-personalizado-linux.
+
+     https://github.com/rafa-nunes18/criar-xcursor-personalizado-linux
+
+## Finalmente 
+
+Obrigado por ler até aqui. 
+Para ver um grande exemplo do uso de tkxcursor, acesse meu primeiro projeto em Phyton .
+
+https://github.com/rafa-nunes18/3-in-1-Tkinter-Themes
+
+Rafael A. Nunes ( rafa.nunes2018@hotmail.com ) 2024
+
+Instagram: @rafa33alves
 
