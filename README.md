@@ -27,6 +27,17 @@ Além disso, verifique se a versão do Python está atualizada.
 
 ## Instruções
 
+Instalacao:
+   - Baixe todo os arquivos e os coloque em uma pasta.
+   - Crie um ambiente virtual a partir do interpretador python instalado no seu PC.
+   - Ative seu venv e em um novo terminal, navegue até o diretório da pasta que contém os arquivos baixados. Você pode usar o comando cd para mudar de diretório. Por exemplo:
+
+     cd /caminho/para/o/diretorio
+     
+   - Use o Pip para executar o arquivo setup.py. Você pode usar o seguinte comando:
+
+     pip install .
+     
 Existem apenas 3 funções:
 
    - x_xcursor_supporte:
@@ -39,10 +50,10 @@ Existem apenas 3 funções:
    
    - x_set_cursor:
    
-     Define um Xcursor para o widget fornecido. Passe novamente o mesmo widgt junto do seu xid.
+     Define um Xcursor para o widget fornecido. Passe novamente o mesmo widget junto do seu xid.
 
      Para voltar o cursor padrao use a função config do tkinter para usar o cursor arrow:
      widget.config(cursor="arrow")
 
-
+## 
 
