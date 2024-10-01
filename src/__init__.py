@@ -29,7 +29,7 @@ class tkXcursorError(Exception):
     """Exceção personalizada para erros do tkXcursor."""  
     pass  
 
-def x_xcursor_supported(widget):  
+def x_xcursor_suported(widget):  
     """  
     Verifica se o sistema suporta cursores ARGB/animados.  
 
