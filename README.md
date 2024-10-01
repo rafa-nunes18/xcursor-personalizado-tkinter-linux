@@ -7,7 +7,7 @@ Isso pode melhorar a estética e a funcionalidade da interface do usuário, perm
 ## TkXcursor demo
 ![screenshot1](demo/Cursores_demo.gif)
 
-## direitos 
+## direitos autorais
 O projeto original é de propriedade do sK1Project.
 
 O arquivo original pode ser encontrado no repositório do sK1Project no GitHub, chamado tkxcursor. 
@@ -52,7 +52,7 @@ Existem apenas 3 funções:
    
      Define um Xcursor para o widget fornecido. Passe novamente o mesmo widget junto do seu xid.
 
-     Para voltar o cursor padrao use a função config do tkinter para usar o cursor arrow:
+     Para voltar o cursor padrão use a função config do tkinter para usar o cursor arrow:
      widget.config(cursor="arrow")
 
 O formato do arquivo de cursor: 
