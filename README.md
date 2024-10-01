@@ -17,3 +17,14 @@ https://github.com/sk1project/tkxcursor
 https://sk1project.net
 
 @sK1ProjectOrg
+
+Por se tratar de um projeto de 15 anos atrás, tive que modificá-lo e atualizá-lo para uma versão 2.0 .
+
+## Requisitos do sistema
+
+O TkXcursor, funcionará em distribuições Linux que utilizem o sistema X.org como gerenciador de janelas e que tenham o suporte adequado para as funcionalidades gráficas da biblioteca Tkinter. 
+Além disso, verifique se a versão do Python está atualizada. 
+
+## Instruções
+
+
