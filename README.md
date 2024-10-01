@@ -35,13 +35,13 @@ Existem apenas 3 funções:
      
    - x_load_cursor:
      
-   Retorna o xid para o Xcursor RGBA/animado personalizado. Passe um widget e o caminho do cursor.
+     Retorna o xid para o Xcursor RGBA/animado personalizado. Passe um widget e o caminho do cursor.
    
    - x_set_cursor:
-     
-   Define um Xcursor para o widget fornecido. Passe novamente o mesmo widgt junto do seu xid.
    
-   - Para voltar o cursor padrao use a função config do tkinter para usar o cursor arrow:
+     Define um Xcursor para o widget fornecido. Passe novamente o mesmo widgt junto do seu xid.
+
+     Para voltar o cursor padrao use a função config do tkinter para usar o cursor arrow:
      widget.config(cursor="arrow")
 
 
