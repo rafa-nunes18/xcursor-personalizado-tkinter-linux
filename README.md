@@ -6,3 +6,14 @@ Isso pode melhorar a estética e a funcionalidade da interface do usuário, perm
 
 ## TkXcursor demo
 ![screenshot1](demo/Cursores_demo.gif)
+
+## direitos 
+O projeto original é de propriedade do sK1Project.
+
+O arquivo original pode ser encontrado no repositório do sK1Project no GitHub, chamado tkxcursor. 
+
+https://github.com/sk1project/tkxcursor
+
+https://sk1project.net
+
+@sK1ProjectOrg
