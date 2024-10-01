@@ -40,7 +40,7 @@ Instalação:
      
 Existem apenas 3 funções:
 
-   - x_xcursor_supporte:
+   - x_xcursor_suporte:
    
      É uma função opcional que apenas verifica se o sistema suporta cursores ARGB/animados. Passe como argumento qualquer widget, retornando True para sim e False para não.
      
